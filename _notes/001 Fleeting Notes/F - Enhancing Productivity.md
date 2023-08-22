@@ -5,14 +5,14 @@ Created: Wednesday 26th July 2023 22:42:41
 
 # Topic/Concept/Idea
 
-How can I improve my productivity
+Enhancing Productivity
 
 # Thoughts/Questions
 
+- What are some of the things people can do to enhance their productivity?
+
 # Possible Connections
 
-- Self-Improvement
-- [[Atomic Habits - James Clear]]
 - [[F - Neuroplasticity]]
 
 #### Recommended Reading (found by Likewise ChatGPT plugin):
