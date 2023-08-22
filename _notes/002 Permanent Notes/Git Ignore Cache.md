@@ -4,7 +4,6 @@
 # Stop tracking changes for files already in the repository
 
 # Encounter Detail
-[<sub><sup>Write a detailed description of the problem you encountered here. Include any error messages, unexpected behaviours, and the context in which the problem occurred.</sup></sub>]
 
 Tried to add all subfolders with the name `.obsidian` to `.gitignore`. 
 
@@ -19,7 +18,6 @@ Tried to add all subfolders with the name `.obsidian` to `.gitignore`.
 You can confirm if this is the case by running `git ls-files --cached | grep .obsidian`. If any files show up, they are still tracked by git.
 
 ## # Solution
-[<sub><sup>Explain the solution that was implemented to resolve the problem. Include the steps you took, the resources you used, and any important learnings you want to highlight.</sup></sub>]
 
 ```bash
 // You can include code snippets like this
