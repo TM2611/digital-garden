@@ -23,7 +23,7 @@ Each MOC is a guide to a specific knowledge domain, linking related ideas togeth
 My digital garden consists of two kinds of notes.
 #### 1. **Fleeting Notes** 🍂
 
-These are the initial seeds of thought. They capture the essence of a fleeting idea, an inspiration from a book I've read, a conversation I've had, or a concept I've encountered. Think of them as the raw, unpolished gems that are waiting to be refined - or simply a 'to explore' list. They're spontaneous and often succinct, serving as placeholders for deeper exploration later on.
+Prefixed with 'F - ' (or F), these are the initial seeds of thought. They capture the essence of a fleeting idea, an inspiration from a book I've read, a conversation I've had, or a concept I've encountered. Think of them as the raw, unpolished gems that are waiting to be refined - or simply a 'to explore' list. They're spontaneous and often succinct, serving as placeholders for deeper exploration later on.
 
 #### 2. **Permanent Notes** 🌳
 
