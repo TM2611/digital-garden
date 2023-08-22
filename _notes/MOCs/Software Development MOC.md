@@ -3,10 +3,6 @@
 
 tags:: #MOC
 
-up:: [[Cerebellum 🧠]]
-
-  
-
 ```dataview
 
 TABLE WITHOUT ID

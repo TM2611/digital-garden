@@ -12,9 +12,6 @@ await tp.file.rename("F - " + title);
 # Topic/Concept/Idea
 
 
-# Context
-
-
 # Thoughts/Questions
 
 

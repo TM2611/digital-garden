@@ -21,9 +21,3 @@ In essence, emotion regulation is a crucial part of emotional intelligence. It i
 # Possible Connections
 
 - [[F - Emotional Intelligence]]
-
-# Tags
-
-[<sub><sup>Include tags to categorize this note. This could be based on the subject matter, themes, or other classification factors that make sense for your Zettelkasten system.</sup></sub>]
-
-#todo
