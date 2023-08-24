@@ -16,6 +16,4 @@ Both of the examples above are examples of awareness, the first being an example
 
 # Connections
 
-- [[Awareness]]
-
 
