@@ -8,7 +8,7 @@ permalink: /
 # 🌱 **Step Into Taylor's Digital Garden!** 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-You've discovered my curated space of reflections and ideas. Wander through, absorb the insights, and let them stir your own thoughts. If a seedling here resonates or provokes, I'd love to hear your perspective. After all, this garden flourishes best with diverse views and insights.
+You've discovered my curated space of reflections and ideas. It is important to note that EVERYTHING you see here are my own personal thoughts- they may be 'right' or 'wrong' and should not be treated as fact. I will often give my understanding of a word or concept, but these are by no means official definitions (I tend to try to avoid those). Wander through, absorb the insights, and let them stir your own thoughts. If a seedling here resonates or provokes, I'd love to hear your perspective. After all, this garden flourishes best with diverse views and insights.
 </p>
 
 ## Templates
@@ -18,7 +18,9 @@ All 'Template' notes are not ideas or notes designed to be read, their sole purp
 ## Maps of Content (MOCs)
 
 Each MOC is a guide to a specific knowledge domain, linking related ideas together. Similarly, they are note designed to be read but are required within my Obsidian vault.<br>
-## Note Types
+## Notes
+
+Each note has a section for 'Thoughts and Questions', this section is primarily to prompt my own thoughts so that I can expand on the note in future - however they may also serve as prompts for the potential reader.
 
 My digital garden consists of two kinds of notes.
 #### 1. **Fleeting Notes** 🍂
