@@ -2,13 +2,6 @@
 ---
 
 Created: <% tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
-<%*
-let title = tp.file.title 
-if (title.startsWith("Untitled") ) { 
-	title = await tp.system.prompt("Title: ") 
-	await tp.file.rename(title); 
-}%>
-
 # Encounter Detail
 [<sub><sup>Write a detailed description of the problem you encountered here. Include any error messages, unexpected behaviours, and the context in which the problem occurred.</sup></sub>]
 
