@@ -17,4 +17,4 @@ What is Emotional Intelligence?
 
 # Possible Connections
 
-- [[Philosophy MOC]]
+- [[Psychology MOC]]
