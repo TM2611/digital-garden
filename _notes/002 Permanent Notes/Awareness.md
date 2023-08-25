@@ -13,5 +13,5 @@ People most commonly refer to the perception aspect of awareness, however knowle
 
 # Connections
 
-- [[Emotional Intelligence|Emotional Intelligence]]
+- [[F - Emotional Awareness]]
 
