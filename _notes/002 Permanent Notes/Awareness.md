@@ -14,4 +14,5 @@ People most commonly refer to the perception aspect of awareness, however knowle
 # Connections
 
 - [[F - Emotional Awareness]]
+- [[Awareness vs Understanding]]
 
