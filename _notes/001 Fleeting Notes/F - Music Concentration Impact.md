@@ -14,8 +14,6 @@ Does listening to music while working/concentrating have a negative impact on yo
 # Possible Connections
 
 - [[Psychology MOC]]
-- Neuroscience
-- Cognitive Science
 
 #### Recommended Reading:
 
