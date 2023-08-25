@@ -9,10 +9,13 @@ Emotional Intelligence refers to an individual's ability to perceive, use, under
 
 - **Emotional awareness** - the ability to identify, name and understand one's own emotions.
 - **Emotional application** - The ability to harness those emotions and apply them to tasks like thinking and problem-solving.
-- **Emotion regulation** - the ability to manage emotions, which includes regulating one's own emotions when necessary and helping others to do the same."
+- **Emotion regulation** - the ability to manage emotions, which includes regulating one's own emotions when necessary and helping others to do the same.
 
 # Thoughts/Questions
 
-# Possible Connections
+# Connections
 
 - [[Psychology MOC]]
+- [[F - Emotion Regulation]]
+- [[F - Emotional Awareness]]
+- [[F - Emotional Application]]
