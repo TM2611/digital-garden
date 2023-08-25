@@ -7,7 +7,7 @@ Created: Monday 24th July 2023 00:18:55
 
 What is Emotion Regulation?
 
-"Subset of [[F - Emotional Intelligence]], refers to the ability to manage and respond to an emotional experience in a socially acceptable and flexible manner. Emotion regulation involves:
+"Subset of [[Emotional Intelligence]], refers to the ability to manage and respond to an emotional experience in a socially acceptable and flexible manner. Emotion regulation involves:
 
 - The capacity to resist impulsive behaviours related to intense emotions.
 - The ability to calm oneself down when upset or angry.
@@ -20,4 +20,4 @@ In essence, emotion regulation is a crucial part of emotional intelligence. It i
 
 # Possible Connections
 
-- [[F - Emotional Intelligence]]
+- [[Emotional Intelligence]]
