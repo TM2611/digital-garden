@@ -14,6 +14,7 @@ Having diabetes affects many aspects of a persons life - the main one coming to 
 # Possible Connections
 
 - [[Diabetes MOC]]
+- [[Psychology MOC]]
 
 Category: Health and Wellness
 

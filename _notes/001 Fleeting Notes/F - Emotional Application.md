@@ -10,6 +10,8 @@ Emotional application is the ability to harness those emotions and apply them to
 
 
 # Connections
+
 - [[Emotional Intelligence]]
+- [[Psychology MOC]]
 
 
