@@ -4,6 +4,8 @@
 Created: Friday 25th August 2023 00:29:40
 # Topic/Concept/Idea
 
+Awareness serves as the initial step in the process of understanding.
+
 Consider the two following situations:
 
 1. Seeing a flash of movement in the corner of your eye, but not catching what exactly it was
@@ -19,6 +21,7 @@ One final observation and interesting point to consider is that although awarene
 
 # Thoughts/Questions
 
+- Is there an example of being able to understand something without having an awareness of it?
 
 # Connections
 
