@@ -12,11 +12,11 @@ Created: <% tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
 
 
 
-# Related Notes
+# Connections
 [<sub><sup>Include links to any other notes that are related to the problem. This could be notes about the same project, the same technology, or similar problems you've encountered in the past.</sup></sub>]
+
+- [[Software Development MOC]]
 
 
  #encounter
 
-
-[[Software Development MOC]]
