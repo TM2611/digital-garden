@@ -28,7 +28,7 @@ Templates are the blueprints for note-taking in the garden, ensuring consistent 
 #### 4. Maps of Content (MOCs) 🌐
 MOCs are the compasses of the digital garden, providing an overview of specific knowledge areas. They link related notes and chart out interconnected ideas, serving as essential navigational tools within my Obsidian vault
 
-Each Fleeting and Permanent note has a section for 'Thoughts and Questions', this section is primarily to prompt my own thoughts so that I can expand on the note in future - however they may also serve as prompts for the potential reader. Templates and MOCs are not direct reflections of thoughts, readings, or experiences like the Fleeting and Permanent notes - they're just used to help my structure my Obsidian vault.
+Each Fleeting and Permanent note has a section for 'Thoughts and Questions', this section is primarily to prompt my own thoughts so that I can expand on the note in future - however they may also serve as prompts for the potential reader. Templates and MOCs are not direct reflections of thoughts, readings, or experiences like the Fleeting and Permanent notes - they're just used to help structure my Obsidian vault.
 
 <br> <strong>Recently updated notes</strong>
 
