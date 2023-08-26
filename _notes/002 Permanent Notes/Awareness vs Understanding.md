@@ -11,7 +11,7 @@ Consider the two following situations:
 1. Seeing a flash of movement in the corner of your eye, but not catching what exactly it was
 2. Recognising that bees have a vital function in pollination and the ecosystem, but not knowing why
 
-Both situations are examples of awareness. The first illustrates the sensory facet of awareness, while the second highlights the informational or knowledge-based facet. However, the latter should also highlight the difference between awareness and understanding. While there's recognition of bees' significance in the ecosystem, there isn't an understanding of it as the deeper rationale or "why" remains unknown.
+Both situations are examples of awareness. The first illustrates the perception facet of awareness, while the second highlights the knowledge-based facet. However, the latter should also highlight the difference between awareness and understanding. While there's recognition of bees' significance in the ecosystem, there isn't an understanding of it as the deeper rationale or "why" remains unknown.
 
 You may think "Well, could i not just say 'I understand that bees have a vital function in the ecosystem' ". While you could, depending on your definition and interpretation of understanding, I tend to subscribe to the idea that awareness precedes understanding; it's the initial recognition or acknowledgement, whereas understanding delves deeper into the "why" or "how" of a concept. 
 
