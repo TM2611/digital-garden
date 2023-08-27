@@ -13,4 +13,5 @@ Intuition is the ability to understand or feel something instinctively, without 
 
 # Connections
 - [[Psychology MOC]]
+- [[F - Logic Vs Intuition]]
 

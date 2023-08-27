@@ -12,4 +12,5 @@ Logic is the systematic use of reasoning to arrive at a conclusion based on give
 
 # Connections
 
--[[Philosophy MOC]]
+- [[Philosophy MOC]]
+- [[F - Logic Vs Intuition]]
