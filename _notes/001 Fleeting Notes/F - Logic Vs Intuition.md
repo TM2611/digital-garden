@@ -14,4 +14,5 @@ Created: Sunday 27th August 2023 23:15:10
 - [[Psychology MOC]]
 - [[F - Logic]]
 - [[F - Intuition]]
+- [[F - Utility Theory ]]
 
